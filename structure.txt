@@ -1,0 +1,26 @@
+Project_Jobs/
+│
+├── data/                      # All raw and cleaned data files
+│   ├── data_files.csv                  # Store raw CSVs or JSONs
+│   ├── cleaned/               # Cleaned and ready-to-use datasets
+│
+├── scrapers/                 # Web scrapers for different sources
+│   ├── monster_scraper.py
+│   ├── talent_scraper.py
+    ├── utils/                    # Reusable utility code
+        ├── helpers.py
+        ├── global_variables.py   
+│
+├── processing/               # Data cleaning, transformation, merging
+│   ├── clean_data.py
+│   ├── merge_datasets.py
+│
+├── visuals/                  # Scripts to generate charts, dashboards
+│   ├── plot_charts.py
+│   ├── streamlit_dashboard.py
+│
+├── notebooks/                # Jupyter Notebooks for EDA or testing
+│
+├── Main.py                   # Orchestrator / starting script
+├── requirements.txt
+└── README.md
