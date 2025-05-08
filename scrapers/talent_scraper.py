@@ -1,4 +1,4 @@
-from .utils.helpers import *
+from utils.helpers import *
 
 # This method takes in the webpage and extract data and store in a dictionary datastructure jobs
 def fetch_jobs_from_talent(talent_doc):
@@ -16,11 +16,9 @@ def fetch_jobs_from_talent(talent_doc):
             'job_title' : [],
             'company_name' : [],
             'location' : [],
-            'city': [],
-            'state':[],
-            'industry' : [],
-            'job_position': [],
-            'experience' : [],
+            #'industry' : [],
+            #'job_position': [],
+            #'experience' : [],
             'source' : []
     }
     
@@ -29,7 +27,7 @@ def fetch_jobs_from_talent(talent_doc):
             job_title = job_data.find('h2', job_title_class).text
             company = job_data.find('span', company_class).text
             location = job_data.find('span', location_class).text
-            #job_url = 'https://in.talent.com/' + job_data.find('a', job_url_class)['href']
+            job_url = 'https://in.talent.com/' + job_data.find('a', job_url_class)['href']
             #image = talent_jobs_data[0].find('div', 'sc-5c54c4fb-1 ixNEQE').find('img')['src'] # Can use further as required to display in frontend
 
             #fetch_talent_details_from_job_specific_url(job_url)
@@ -39,11 +37,9 @@ def fetch_jobs_from_talent(talent_doc):
             jobs['location'].append(location)
             jobs['source'].append('Talent')
             #jobs['application_link'].append(job_url)
-            jobs['city'].append('')
-            jobs['state'].append('')
-            jobs['industry'].append(categorize_industry(job_title))
-            jobs['job_position'].append(get_job_position_level(job_title))
-            jobs['experience'] = extract_years_from_title(job_title)
+            #jobs['industry'].append(categorize_industry(job_title))
+            #jobs['job_position'].append(get_job_position_level(job_title))
+            #jobs['experience'] = extract_years_from_title(job_title)
         except Exception as e:
             print(f"Error processing a job card: {e}")
             continue
@@ -75,7 +71,7 @@ def talent_main(keyword, location, company, exp):
     # Create / Append the CSV file the jobs data
     print('Saving the data to CSV file...')
     filename = 'jobs_talent_data.csv'
-    save_jobs_to_csv(df_jobs, filename)
+    save_to_csv(df_jobs, filename, 'data/raw')
     print('File named {} created/ updated.'.format(filename))
     return
 

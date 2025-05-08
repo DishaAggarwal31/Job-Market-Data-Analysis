@@ -1,5 +1,6 @@
-#from utils import helpers
-from .utils.helpers import *
+from utils.helpers import *
+#from PROJECT_JOBS.utils.helpers import *
+
 
 def monster_main(keyword, location, company, exp):
     # User input for search keyword and location
@@ -31,7 +32,7 @@ def monster_main(keyword, location, company, exp):
     # Create / Append the CSV file the jobs data
     print('Saving the data to CSV file...')
     filename = 'jobs_monster_data.csv'
-    save_jobs_to_csv(df_jobs, filename)
+    save_to_csv(df_jobs, filename, 'data/raw')
     print('File named {} created/ updated.'.format(filename))
     return
 
@@ -45,10 +46,8 @@ def fetch_jobs_from_monster(monster_doc):
             'job_title' : [],
             'company_name' : [],
             'location' : [],
-            'city': [],
-            'state': [],
-            'industry' : [],
-            'job_position': [],
+            #'industry' : [],
+            #'job_position': [],
             'experience' : [],
             'source' : []
     }
@@ -65,11 +64,9 @@ def fetch_jobs_from_monster(monster_doc):
             jobs['company_name'].append(company)
             jobs['location'].append(location)
             jobs['source'].append('Monster')
-            jobs['industry'].append(categorize_industry(job_title))
+            #jobs['industry'].append(categorize_industry(job_title))
             jobs['experience'].append(exp)
-            jobs['city'].append('')
-            jobs['state'].append('')
-            jobs['job_position'].append(get_job_position_level(job_title))
+            #jobs['job_position'].append(get_job_position_level(job_title))
         except Exception as e:
             print(f"Error processing a job data: {e}")
             continue

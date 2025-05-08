@@ -1,0 +1,754 @@
+job_id,job_title,company_name,location,source
+TAL0001,Big Data Developer,LTIMindtree,"Pune, Maharashtra, India",Talent
+TAL0002,Big Data Engineer,Saaki Argus & Averil Consulting,"Hyderabad, Telangana, India",Talent
+TAL0003,Big Data Developer,Live Connections,"Bengaluru, Karnataka, India",Talent
+TAL0004,Big Data Developer,BDNT Labs Private Limited,"Pune, Maharashtra, India",Talent
+TAL0005,BIg data,Zodiac HR,"Mumbai, Maharashtra, India",Talent
+TAL0006,Big Data Developer,LION & ELEPHANTS,"Kolhapur, IN",Talent
+TAL0007,Big Data Consultant,Impetus,"Noida, Uttar Pradesh, India",Talent
+TAL0008,Big Data Developer,HCLTech,India,Talent
+TAL0009,Big Data Developer,Hrizen Techno Services,Chennai,Talent
+TAL0010,Big Data Developer,Agile Technology Solutions - Your Technology Partner,"Pune, Maharashtra, India",Talent
+TAL0011,Big Data Architect,Quick Heal,"Pune, Maharashtra, India",Talent
+TAL0012,Big Data engineer,Tata Consultancy Services,India,Talent
+TAL0013,Big Data Developer,MethodHub,"Hyderabad, Telangana, India",Talent
+TAL0014,Big Data Developer,Risk Resources,Chennai,Talent
+TAL0015,Big Data Specialist,Cybage Software,"Pune, Maharashtra, India",Talent
+TAL0016,Big Data Consultant,Synechron,India,Talent
+TAL0017,Big Data Engineer,Nagarro,"Noida, Uttar Pradesh, India",Talent
+TAL0018,Big Data Developer -,Prakhar Software Solutions Private Limited,Bangalore,Talent
+TAL0019,Big Data Lead,Recro,"Pune, Maharashtra, India",Talent
+TAL0020,Hadoop Administrator - Cluster Management,TechnoRight,"Delhi, IN",Talent
+TAL0021,Big Data Engineer - Spark / Hadoop,Huntsmen & Barons,Delhi,Talent
+TAL0022,Ab Initio Senior Developer DEL,Exusia,Delhi,Talent
+TAL0023,Software Engineer - Java / Spring Developer,Mindfire Solutions,Delhi,Talent
+TAL0024,Big Data / Java Developer - Spark / Hadoop,Quesscrop,"Delhi, IN",Talent
+TAL0025,GCP Big Data Engineer,LTIMindtree,"New Delhi, Delhi, India",Talent
+TAL0026,"Jobs For Database Administrator -Reputed IT Industry -Delhi NCR, India -15 LPA -Preeti",Seven Consultancy,Delhi-NCR-India,Talent
+TAL0027,Data Wrangling,Overture Rede,"Delhi, Delhi, India",Talent
+TAL0028,Data Architect - Python / Informatica,Coders Brain Technology Private Limited,"Delhi, IN",Talent
+TAL0029,AI Developer,JK Tech World,"New Delhi, Delhi, India",Talent
+TAL0030,Data Engineer - R / ETL / Python,Unlock Business Consulting,"Delhi, IN",Talent
+TAL0031,AI / ML Data Scientist,Peoplelogic Business,"Delhi, NCR",Talent
+TAL0032,Presales Solution Architect - Big Data / Cloud,Quadrangle,"Delhi, IN",Talent
+TAL0033,Senior PySpark Developer,Victrix Systems & Labs,"Delhi, IN",Talent
+TAL0034,Gen AI Architect,IGT Solutions,"Delhi, IN",Talent
+TAL0035,Senior BigData Developer_ Remote India,Luxoft,"Delhi, IN",Talent
+TAL0036,Kloud9 - Senior Data Engineer - Google Cloud Platform,Retail Kloud9 Technologies India Private Limited,"Delhi, IN",Talent
+TAL0037,Technical Project Manager,Beroe Inc,"Bengaluru, IN",Talent
+TAL0038,Technical Project Manager,myGwork,"Banglore, Karnatak, India",Talent
+TAL0039,Technical Project Manager,Recro,"Bengaluru, Karnataka, India",Talent
+TAL0040,Technical Project Manager,TTK Services Private Limited,"Bengaluru, Karnataka, India",Talent
+TAL0041,Technical Services Manager,GenScript,"Bangalore, IN",Talent
+TAL0042,Technical support manager,JA Solar,"Bengaluru, IN",Talent
+TAL0043,Technical Project Manager,Ubique Systems,"Bengaluru, Karnataka, India",Talent
+TAL0044,Technical Project Manager,Randstad Enterprise,"Bengaluru, IN",Talent
+TAL0045,Technical Project Manager,ScaleneWorks,"Bengaluru, karnataka, India",Talent
+TAL0046,Technical Program Manager,Anumana,"Bengaluru, Karnataka, India",Talent
+TAL0047,Technical Project Manager,ACL Digital,"Bengaluru, Karnataka, India",Talent
+TAL0048,Technical Product Manager,ZeroFox,"Bengaluru, KA, IN",Talent
+TAL0049,Technical Project Manager,PhonePe,"Bengaluru, Karnataka, India",Talent
+TAL0050,Technical Account Manager,Trigent Software Private Limited,"KA, India",Talent
+TAL0051,Technical Program Manager,Ajmera Infotech Inc.,"Bangalore, GJ, in",Talent
+TAL0052,Technical Account Manager,Karix,"Bengaluru, Karnataka, India",Talent
+TAL0053,Technical Project Manager,Deluxe,"Bengaluru, Karnataka, India",Talent
+TAL0054,Technical Project Manager,Pyxidia Techlab LLP,"Bangalore, Karnataka, India",Talent
+TAL0055,Generative AI Engineer,The Syntra,"New Delhi, Delhi, India",Talent
+TAL0056,AI Solution Architect,Heyu / Talent Corner HR Services Pvt Ltd,"Delhi, IN",Talent
+TAL0057,AI Trainer,SSTech LLC,"Delhi, IN",Talent
+TAL0058,Voiceplug - AI Chatbot Developer - Conversational AI,Voiceplug Inc,"Delhi, IN",Talent
+TAL0059,Generative AI Engineer,StartUs Insights,"Delhi, IN",Talent
+TAL0060,AI Agent Engineer,GROW10X,"Delhi, IN",Talent
+TAL0061,AI Engineer,Astra Security,"Delhi, IN",Talent
+TAL0062,Generative AI Engineer,Xebia,"Delhi, IN",Talent
+TAL0063,AI Automation Specialist,Particle Execution,"Delhi, IN",Talent
+TAL0064,AI Trainers required,EducoHire,"Delhi, DL, in",Talent
+TAL0065,AI Engineer - Remote,Aplus Careers,"New Delhi, Delhi, India",Talent
+TAL0066,AI Developer,r3 Consultant,"Delhi, IN",Talent
+TAL0067,Generative AI LLM Engineer (AI / ML),Qubrid AI,"Delhi, IN",Talent
+TAL0068,AI / ML Engineer( Gen AI Developer),Daixta,"Delhi, IN",Talent
+TAL0069,Project Manager – AI,Wadhwani Foundation,"Delhi, DL, in",Talent
+TAL0070,AI / ML Developer,Tata Consultancy Services,"New Delhi, Delhi, India",Talent
+TAL0071,AI Developers,GovConPros Inc,"Delhi, IN",Talent
+TAL0072,AI Engineer,Zone IT Solutions,"Delhi, DL, IN",Talent
+TAL0073,Generative AI Developer,Premier Consultants,"Delhi, IN",Talent
+TAL0074,AI / ML Engineer,Cancard Inc.,"Delhi, IN",Talent
+TAL0075,PySpark Developers,LTIMindtree,"Chennai, Tamil Nadu, India",Talent
+TAL0076,Pyspark Architect,Saaki Argus & Averil Consulting,"Bangalore Rural, Karnataka, India",Talent
+TAL0077,Pyspark Architect,Talent Worx,"Bengaluru, KA, IN",Talent
+TAL0078,Pyspark developer,Randstad India,"Hyderabad, Telangana, India",Talent
+TAL0079,PySpark Technical Lead,Sopra Steria,"Chennai, Tamil Nadu, India",Talent
+TAL0080,PySpark Developer,Corporate Resources,Bengaluru,Talent
+TAL0081,Senior PySpark Developer,Victrix Systems & Labs,"Delhi, IN",Talent
+TAL0082,Python Developer - PySpark,Evoke HR Solutions,Mumbai,Talent
+TAL0083,"Hadoop , Pyspark Developer",Allime Tech Solutions Private Limited,"Bangalore, KA, India",Talent
+TAL0084,PySpark Developer,Risk Resources LLP,Kolkata,Talent
+TAL0085,Senior - PySpark,KPMG India,"Gurgaon, Haryana, India",Talent
+TAL0086,Pyspark Developer,Tata Consultancy Services,India,Talent
+TAL0087,Pyspark Developer,DATAECONOMY,"Pune, Maharashtra, India",Talent
+TAL0088,Data Engineer - PySpark,NexionPro,"Delhi, IN",Talent
+TAL0089,Pyspark Developer,Wipro,"Chennai, India",Talent
+TAL0090,Java Backend Engineer,Tranzeal Incorporated,"Bengaluru, Karnataka, India",Talent
+TAL0091,Backend Engineer - Java,Live Connections placements Pvt Ltd,India,Talent
+TAL0092,Java backend Developer,Zone IT Solutions,"Gurugram, HR, IN",Talent
+TAL0093,Java Backend Developer,N Consulting Ltd,"Pimpri-Chinchwad, Pune Division, India",Talent
+TAL0094,Java Backend Developer,Worldline,"Pune, Maharashtra, India",Talent
+TAL0095,Java Backend Lead,Coforge,"Bengaluru, Karnataka, India",Talent
+TAL0096,Java BackEnd Lead,Axiom Software Solutions Limited,"Bengaluru, KA, IN",Talent
+TAL0097,Backend Developer - Java,DATAART TECHNOLOGIES INDIA PRIVATE LIMITED,Bangalore,Talent
+TAL0098,Backend Java,Redian Software Global,"Gurgaon, Haryana, India",Talent
+TAL0099,Java Backend Developer,Anlage Infotech (India) P Ltd,"Aurangabad, IN",Talent
+TAL0100,Java Backend Developer,Smarsh,"Bengaluru, Karnataka, India",Talent
+TAL0101,Java Backend developer,Stackave Solutions,"Bengaluru, Karnataka, India",Talent
+TAL0102,JAVA Backend LeadArchitect,TalentOla,"Bangalore, Karnataka, India",Talent
+TAL0103,Java Backend Developer,Amantya Technologies,"Gurugram, Haryana, India",Talent
+TAL0104,Java Backend,myGwork,"India - Bengaluru, India",Talent
+TAL0105,Java Backend Engineer,Aditi India,"Pune, Maharashtra, India",Talent
+TAL0106,Java Backend Engineer,Birdeye,India,Talent
+TAL0107,Backend Lead,Proclink,"Hyderabad, Telangana, India",Talent
+TAL0108,Backend Engineer,preferable.ai,"Pune, MH, in",Talent
+TAL0109,SDE3 Backend,Weekday AI,"Chennai, TN, IN",Talent
+TAL0110,Backend Lead,"GSPANN Technologies, Inc","Bengaluru, Karnataka, India",Talent
+TAL0111,Backend Engineer,KeyValue Software Systems,"Kochi, Kerala, India",Talent
+TAL0112,Backend Engineer,Kounsel,"Hyderabad, Telangana, India",Talent
+TAL0113,Backend Architect,Acme Services Private Limited,"Pune, Maharashtra, India",Talent
+TAL0114,Backend Developer,Battlebucks,India,Talent
+TAL0115,Backend Developer,alle,India,Talent
+TAL0116,Backend Developer,CloudHire,"Mumbai, MH, IN",Talent
+TAL0117,Backend Engineer,hotsourced,"Mangalore, IN",Talent
+TAL0118,Backend Developer,Seamless Fintech Innovations Pvt Ltd,Gurgaon,Talent
+TAL0119,Backend Developer,MTAB Technology Center P Ltd,"chennai, TN, in",Talent
+TAL0120,Backend Java,Redian Software Global,"Gurgaon Kty., HR, in",Talent
+TAL0121,Backend Engineer,Grow Your Staff,"Mumbai, IN",Talent
+TAL0122,Backend Engineer,StockGro,"Bengaluru, Karnataka, India",Talent
+TAL0123,Backend Engineer,Celstream Technologies,"Bengaluru, Karnataka, India",Talent
+TAL0124,Backend Engineer,TabSquare.AI,"Kollam, IN",Talent
+TAL0125,Backend Engineer,"LotusFlare, Inc.","Pune, IN",Talent
+TAL0126,Backend Developer,TLC Worldwide,"Bengaluru, Karnataka, IN",Talent
+TAL0127,Azure Developer,CohnReznick,"Mumbai, IN",Talent
+TAL0128,.Net Developer - Azure Cloud,XHire.One,Mumbai,Talent
+TAL0129,Senior Full Stack Java Developer with Azure,Datum Technologies Group,"Mumbai, Maharashtra, India",Talent
+TAL0130,.NET Full Stack (.NET Core and React with Azure),Antal International,"Mumbai, IN",Talent
+TAL0131,Azure Developer,MSRcosmos LLC,"Mumbai, Maharashtra, India",Talent
+TAL0132,Freelancer - Azure Cloud Developer,Norconsulting Global Recruitment,"Mumbai, IN",Talent
+TAL0133,Microsoft Developer,TotalEnergies,"Mumbai, Maharashtra, India",Talent
+TAL0134,Azure Cloud Developer - Full remote - contractor in USD,All European Careers,"Mumbai, IN",Talent
+TAL0135,Dot NET Azure L2 / L3 Support-( Hybrid-Bangalore),DigiHelic Solutions Pvt. Ltd.,"Mumbai, IN",Talent
+TAL0136,Azure Cloud Developer - Data Factory,Talpro,Mumbai,Talent
+TAL0137,TCS Hiring for Elasticsearch Developer,Tata Consultancy Services,"Mumbai, Maharashtra, India",Talent
+TAL0138,.Net 6 Developer with Azure,Oracle,"MUMBAI, MAHARASHTRA, India",Talent
+TAL0139,Senior Dotnet Developer,IT Global,"Mumbai, IN",Talent
+TAL0140,.NET and Azure API Developer,Luxoft,"Mumbai, IN",Talent
+TAL0141,".NET Developer (Angular / React, Azure)",Funic Tech,"Mumbai, IN",Talent
+TAL0142,Azure Application developer,Anicalls (Pty) Ltd,"Mumbai, India",Talent
+TAL0143,Azure Backend Developer,Zones,"Bombay, India",Talent
+TAL0144,Django Developer with AWS / Azure Cloud Deployment Experience,Daixta,"Mumbai, IN",Talent
+TAL0145,Azure Admin,ScaleneWorks,"Mumbai, Maharashtra, India",Talent
+TAL0146,Python Developer,GREATBELL HR Consultancy Services PVT LTD,"Ernakulam, Kerala, India",Talent
+TAL0147,Python Developer,Recro,"Coimbatore, IN",Talent
+TAL0148,Python Developer,"Astir IT Solutions, Inc.","Pune, Maharashtra, India",Talent
+TAL0149,Python Developer,Grey Chain,"Gurugram, Haryana, India",Talent
+TAL0150,Python Developer,Hays,"Bengaluru, Karnataka, India",Talent
+TAL0151,Python Developer,Delta Velocity,"Gurgaon, Haryana, India",Talent
+TAL0152,Python Developer,EMB Global,"Bengaluru, Karnataka, India",Talent
+TAL0153,Python Developer,DeepVox AI,"Hyderabad, Telangana, India",Talent
+TAL0154,Python Developer,GoldenHire Consultancy,"Delhi, IN",Talent
+TAL0155,Python Developer,Aspect Software,"Kurnool, IN",Talent
+TAL0156,Python Developer,myGwork,"Bengaluru - Bellandur (GTP), India",Talent
+TAL0157,Python Developer,Pi Square Technologies,"Anantapur, IN",Talent
+TAL0158,Python Developer,Infosys,India,Talent
+TAL0159,Python Developer,SS&C Technologies,"Coimbatore, IN",Talent
+TAL0160,Python Developer,Synechron,India,Talent
+TAL0161,Python Developer,Awign Expert,"Bangalore, KA, in",Talent
+TAL0162,Python Developer,Exult Global,"Anand, IN",Talent
+TAL0163,Python Developer,ESDS Software Solution Limited,"Nashik, Maharashtra, India",Talent
+TAL0164,Python Developer,Servion Global Solutions,"Bikaner, IN",Talent
+TAL0165,Python Developer,HCLTech,"Bengaluru, Karnataka, India",Talent
+TAL0166,Web Developer,Outlier,"Delhi, India",Talent
+TAL0167,Web Intelligence Analyst,S2T AI - AI-Powered Investigations,"Delhi, IN",Talent
+TAL0168,Web Developer,MNR University,"Delhi, IN",Talent
+TAL0169,Lead Web Developer,Lights Out Studio,"Delhi, IN",Talent
+TAL0170,Web Analytics Specialist,NETM CORPORATE SOLUTIONS PRIVATE LIMITED,"Delhi, IN",Talent
+TAL0171,Laravel Web Developer,DeepSpace9 Technologies,"Delhi, India, India",Talent
+TAL0172,Web Developer,Rooter.gg,"New Delhi, Delhi, India",Talent
+TAL0173,System Administrator,MGT-COMMERCE GmbH,"Delhi, IN",Talent
+TAL0174,Funnel / Web Designer,AuthorityZen,"Delhi, IN",Talent
+TAL0175,Web Developer,Bridging Points Media Pvt. Ltd.,"Delhi, IN",Talent
+TAL0176,Gmware - Senior Python Engineer - Web Scraping & Crawling,GM WARE,"Delhi, IN",Talent
+TAL0177,Web Developer,Quorian,"Delhi, IN",Talent
+TAL0178,ADSK8215-Software Developer III - INR,ACCELON PREMIERE CONSULTANTS PRIVATE LIMITED,"Delhi, Delhi, India",Talent
+TAL0179,Web Application Developer,Vervent,"Delhi, IN",Talent
+TAL0180,Web Developer,Battersea Corporate,"Delhi, NCR",Talent
+TAL0181,Web Developer,Xraised,"Delhi, IN",Talent
+TAL0182,Web Developer,EssentiallySports,"Delhi, IN",Talent
+TAL0183,Software Trainee / Web developers / Web,Guidance Placement,"Delhi, NCR",Talent
+TAL0184,WEB DESGINER,KK SERVICES,"Delhi, Delhi, India",Talent
+TAL0185,Full stack Developer,Tata Consultancy Services,"Bengaluru, Karnataka, India",Talent
+TAL0186,Full Stack Developer,Future-Able,"Davanagere, IN",Talent
+TAL0187,Full Stack Developer,TheThreeAcross,Noida,Talent
+TAL0188,Full Stack Developer,Outlier,"Nashik, India",Talent
+TAL0189,Full Stack Developer,8 Views,"Hyderabad, Telangana, India",Talent
+TAL0190,Full Stack Developer,DGTALISTS,"Kolkata, West Bengal, India",Talent
+TAL0191,Full Stack Developer,Ccube,"Indore, Madhya Pradesh, IN",Talent
+TAL0192,Full Stack Developer,Luxoft,"Pune, Maharashtra, India",Talent
+TAL0193,Full Stack Developer,MAVIP Group,Indore,Talent
+TAL0194,Full Stack Developer,Consulitng,Hyderabad,Talent
+TAL0195,Full Stack Developer,Midpath,"Delhi, IN",Talent
+TAL0196,Full Stack Developer,Evertreen,"Thiruvananthapuram, IN",Talent
+TAL0197,Full Stack Developer,Ecoffset,"Visakhapatnam, IN",Talent
+TAL0198,Full Stack Developer,Excellence and Eminence LLP,"Bangalore, KA, in",Talent
+TAL0199,Full-stack Developer,Techanic Infotech,India,Talent
+TAL0200,Full Stack Developer,Persistent Systems,"Pune, Maharashtra, India",Talent
+TAL0201,Full stack Developer,Quorian,"Mangalore, IN",Talent
+TAL0202,Full Stack Developer,Overture Rede,"Indore, Madhya Pradesh, India",Talent
+TAL0203,Full-stack Developer,Revealer Global Solutions,"Madurai, Tamil Nadu, India",Talent
+TAL0204,Program Manager,Insightzz,"Pune, Maharashtra, India",Talent
+TAL0205,Regional Manager,Livlong 365,"Pune, Maharashtra, India",Talent
+TAL0206,Manager Compliance,Skywings Advisors Pvt. Ltd.,"MH, India",Talent
+TAL0207,Manager,Lifelancer,"Maharashtra, Maharashtra, India",Talent
+TAL0208,Risk Analytics - Assistant Manager / Manager,bluCognition,"Pune, IN",Talent
+TAL0209,BD manager / Account manager- Qualtrics,dentsu,"Pune, Maharashtra, India",Talent
+TAL0210,Manager,EXL,"Pune, Maharashtra, India",Talent
+TAL0211,Cognitud - Manager / Senior Manager - MarTech,Cognitud Advisory Services Private Limited,"Pune, India",Talent
+TAL0212,Manager / Senior Manager – Indirect Tax,FirstCry.com (BrainBees Solutions Ltd.),"Pune, Maharashtra, India",Talent
+TAL0213,Senior Design Manager / Design Manager,"Helpshift, a Keywords Technology","Pune, Maharashtra, India",Talent
+TAL0214,Project Manager,myGwork,"Maharashtra, India",Talent
+TAL0215,Delivery Manager,Zensar Technologies,"Pune, Maharashtra, India",Talent
+TAL0216,Manager / Assistant Manager – Decarbonization,TÜV SÜD,"Pune, Maharashtra, India",Talent
+TAL0217,Program Manager,Authentica,"Pune, Maharashtra, India",Talent
+TAL0218,Project Manager,PayNways Worldwide,"Pune, IN",Talent
+TAL0219,Recruitment Manager,Credence Global Solutions,"Pune, Maharashtra, India",Talent
+TAL0220,Technical Manager,AceNet,"Pune, Maharashtra, India",Talent
+TAL0221,Program Manager,JCB India Ltd.,"Pune, Maharashtra, India",Talent
+TAL0222,Cloud Architect,IDFC FIRST Bank,"Mumbai, Maharashtra, India",Talent
+TAL0223,Cloud Engineer - Google Cloud Platform,Idyllic Services Pvt. Ltd.,Bangalore,Talent
+TAL0224,Cloud Architect,Madhees,"Hyderabad, Telangana, India",Talent
+TAL0225,Cloud Administrator,LTIMindtree,"Bengaluru, Karnataka, India",Talent
+TAL0226,Cloud DBA,Luxoft,"Kolkata, IN",Talent
+TAL0227,Cloud Architect,Eximietas Design,"Bengaluru, Karnataka, India",Talent
+TAL0228,Cloud Architect - Google Cloud Platform,TECH PROJECTS INDIA PRIVATE LIMITED,Hyderabad,Talent
+TAL0229,Cloud Engineer,NexionPro Services,"Bangalore Urban, Karnataka, India",Talent
+TAL0230,Cloud Devops,Tata Consultancy Services,"Hyderabad, Telangana, India",Talent
+TAL0231,Cloud Engineer,VSquare Systems Pvt. Ltd.,"Pune, Maharashtra, India",Talent
+TAL0232,Cloud Lead,ScaleneWorks,"Chennai, Tamil Nadu, India",Talent
+TAL0233,Cloud Architect,ITC Limited,"Mumbai, Maharashtra, India",Talent
+TAL0234,Senior Cloud Engineer / Cloud Architect,Invincible Ocean | InvincibleMeta.AI,"Gurugram, Haryana, India",Talent
+TAL0235,Oracle CPQ Cloud - Cloud Manager,myGwork,"BENGALURU, KARNATAKA, India",Talent
+TAL0236,Cloud Engineer - Google Cloud Platform,Talent Socio,Jaipur,Talent
+TAL0237,Cloud Engineer,Recro,"Kolhapur, IN",Talent
+TAL0238,Cloud Engineer,Deltek,"Kalyan-Dombivli, IN",Talent
+TAL0239,Cloud Engineer,Accolite,"Bengaluru, Karnataka, India",Talent
+TAL0240,Cloud Architect,Impetus Career Consultants,"Mumbai Metropolitan Region, India",Talent
+TAL0241,PL / SQL Developer - Core Banking,Oracle,"Bengaluru, Karnataka, India",Talent
+TAL0242,Senior Oracle Apps Finance Functional,ORACLE,INDIA,Talent
+TAL0243,PL / SQL Developer - Core Banking,Oracle,"Bengaluru, Karnataka, India",Talent
+TAL0244,PL / SQL Developer-Core Banking,ORACLE,INDIA,Talent
+TAL0245,Senior Consultant- Cognos with SQL server,ORACLE,INDIA,Talent
+TAL0246,PL / SQL Flexcube Developer,Oracle,India,Talent
+TAL0247,PL / SQL Flexcube Developer,Oracle,"Bengaluru, Karnataka, India",Talent
+TAL0248,Senior Engineer : Java / J2ee REST SQL Product Development,ORACLE,INDIA,Talent
+TAL0249,Software Developer (PL / SQL),ORACLE,INDIA,Talent
+TAL0250,"Principal Performance Engineer (DB, Golden Gate, SQL)",Oracle,"BENGALURU, KARNATAKA, India",Talent
+TAL0251,Senior Database Developer,ORACLE,INDIA,Talent
+TAL0252,PL / SQL Flexcube Developer,Oracle,"Bengaluru, Karnataka, India",Talent
+TAL0253,PL / SQL Developer - Core Banking,Oracle,India,Talent
+TAL0254,Java - PL / SQL Developer,Oracle,India,Talent
+TAL0255,Senior Consultant - PL / SQL Core Banking,ORACLE,INDIA,Talent
+TAL0256,Application Support Specialist,Oracle,India,Talent
+TAL0257,ODI Developer / Lead,ORACLE,INDIA,Talent
+TAL0258,Senior Java J2ee Developer with (MS SQL Angular),ORACLE,INDIA,Talent
+TAL0259,"Senior Member of Technical Staff (PL / SQL, CCL)",ORACLE,INDIA,Talent
+TAL0260,UI Automation Testing,ValueLabs,"Hyderabad, Telangana, India",Talent
+TAL0261,Automation Testing Intern,Arcot Group,"Mumbai, MH, IN",Talent
+TAL0262,Python Automation Testing,Talent Worx,"Bengaluru, KA, IN",Talent
+TAL0263,Salesforce Automation Testing,Pi Square Technologies,"Bangalore, Karnataka, India",Talent
+TAL0264,ETL Automation Testing,Coforge,"Aligarh, IN",Talent
+TAL0265,Automation Testing Analyst,ADV Tech Consultancy,"Gurugram, Haryana, India",Talent
+TAL0266,Firmware Automation Testing,Cortex Consulting P Ltd,"Bangalore, Karnataka, India",Talent
+TAL0267,Automation Testing - 6A,TalentOla,"Pune, Maharashtra, India",Talent
+TAL0268,Automation Testing,Tata Consultancy Services,India,Talent
+TAL0269,Playwright Automation Testing,Randstad India,"Bangalore, Karnataka, India",Talent
+TAL0270,API Automation Testing,ObjectWin Technology India Pvt. Ltd,"KA, India",Talent
+TAL0271,Automation Testing,Worldline Global Services,"Pune, Maharashtra, India",Talent
+TAL0272,Selenium Automation Testing,Trigent Software Private Limited,"TS, India",Talent
+TAL0273,Python Automation Testing,ITIData an EXL,"Chennai, Tamil Nadu, India",Talent
+TAL0274,Duckcreek Testing- Automation,LTIMindtree,"Pune, Maharashtra, India",Talent
+TAL0275,Automation Testing Lead,Sopra Steria,"Greater Noida, Uttar Pradesh, India",Talent
+TAL0276,Python Automation Testing,DMAIC Academy & Consultancy,"Chennai, Tamil Nadu, India",Talent
+TAL0277,QA Automation Testing,Redian Software Global,"Gurgaon, Haryana, India",Talent
+TAL0278,Python Automation Testing,Client Of DMAIC Academy and Consultancy,"Chennai, Tamil Nadu, India",Talent
+TAL0279,Mainframe Automation Testing,MINDTEL GLOBAL PRIVATE LIMITED,Noida,Talent
+TAL0280,Informatica MDM Developer / Tester,IT,Pune,Talent
+TAL0281,Application Lead - PIM / Informatica,MWIDM Staffing Services,Pune,Talent
+TAL0282,Freelance Informatica Developer,Leading MNC,"Pune, IN",Talent
+TAL0283,Salesforce Migration,Tekgence Inc,"Pune, Maharashtra, India",Talent
+TAL0284,Informatica IICS with CAI Developer,TribolaTech Inc,"Pune, IN",Talent
+TAL0285,Informatica Master Data management(MDM),VARITE INC,"Pune, Maharashtra, India",Talent
+TAL0286,Power BI Developer,AceNet,"Pune, Maharashtra, India",Talent
+TAL0287,Database Developer - SQL Server,Longfinch Technologies,Pune,Talent
+TAL0288,Informatica - Sr. Data Engineer (IICS / IDMC),Exusia,"Pune, Maharashtra, IN",Talent
+TAL0289,Apptad - Senior MDM Developer - ETL,Apptad Technologies Pvt Ltd.,Pune,Talent
+TAL0290,Informatica Production Support Developer,VALUTEK Technologies Pvt Ltd,Pune,Talent
+TAL0291,Swiftwin - Informatica Developer,Nexthire,"Pune, India",Talent
+TAL0292,Zensar Technologies - ETL Developer - Informatica / Power Center,Zensar Technologies,Pune,Talent
+TAL0293,Informatica MDM,Netlink,Pune,Talent
+TAL0294,Informatica CDQ with IDMC Developer,RandomTrees,"Pune, IN",Talent
+TAL0295,Analyst / Consultant - Informatica MDM Developer (INDM),Blue Altair,"Pune, MH, IN",Talent
+TAL0296,Informatica MDM Developer - Data Modeling & ETL,HNM Solutions,Pune,Talent
+TAL0297,DataLake Cloud Platform Administrator - Informatica IICS,ACENET CONSULTING PRIVATE LIMITED,Pune,Talent
+TAL0298,doodleblue Innovations - Data Engineer - Talend / Informatica,doodleblue Innovations Private Limited,Pune,Talent
+TAL0299,"Automation Engineer, RPA",Evolent,"Delhi, IN",Talent
+TAL0300,Senior Solutions Consultant,Enate,"Delhi, IN",Talent
+TAL0301,Data Analyst,Wimmer Solutions,"Delhi, IN",Talent
+TAL0302,Security Engineer - Blue Team,BKN301,"Delhi, IN",Talent
+TAL0303,Blue Yonder OMS Product Manager,WILLWARE TECHNOLOGIES PRIVATE LIMITED,"Delhi, IN",Talent
+TAL0304,.Net Developer - C# / AngularJS,QUESS,"Delhi, IN",Talent
+TAL0305,JDA / Blue Yonder Developer,Ntrix,"Delhi, IN",Talent
+TAL0306,HR- Recruiter / Manpower Supervisor - Blue Collar,ATMS,"Delhi, Delhi, India",Talent
+TAL0307,Data Annotation Quality Analyst,hotsourced,"Delhi, IN",Talent
+TAL0308,Automation Engineer,Readywire,"Delhi, IN",Talent
+TAL0309,RPA Developer - Automation Anywhere,Follex Technology,"Delhi, IN",Talent
+TAL0310,Talent Acquisition Specialist - Blue Collar,AKMV Consultants Pvt Ltd,"Delhi, DL, in",Talent
+TAL0311,JDA / WMS Developer - Blue Yonder Platform,Coders Brain Technology Private Limited,"Delhi, IN",Talent
+TAL0312,RPA Developer - Automation Anywhere / UiPath,QX GLOBAL SERVICES PRIVATE LIMITED,"Delhi, IN",Talent
+TAL0313,Orthoptic Technologist - Oman,The Medical City for Military & Security Services,"Delhi, India, India",Talent
+TAL0314,Practice Manager - Data Engineering,Hiring Prism LLP,Delhi,Talent
+TAL0315,Power Platform Lead,Talent21 Management and Shared Service Pvt Ltd,"Delhi, IN",Talent
+TAL0316,Production Chemist,Blue Panther,"Delhi, NCR",Talent
+TAL0317,Oracle Functional Consultant,ELEGANCE GLOBAL IT SERVICES PRIVATE LIMITED,"Delhi, IN",Talent
+TAL0318,Oracle HCM,Tata Consultancy Services,"Delhi, India, India",Talent
+TAL0319,Oracle APEX Developer,Coders Brain Technology Private Limited,"Delhi, IN",Talent
+TAL0320,Oracle Middleware Administrator,Oracle,"New Delhi, Delhi, India",Talent
+TAL0321,Oracle UIM Developer,Longfinch Technologies,"Delhi, IN",Talent
+TAL0322,Oracle HCM Technical,MPC Cloud Consulting Pvt Ltd,"Delhi, IN",Talent
+TAL0323,Oracle Functional Consultant,TalentBridge,"Delhi, IN",Talent
+TAL0324,Oracle HRMS Consultant,DWT Technology,"Delhi, IN",Talent
+TAL0325,Oracle IDAM,Overture Rede,"Delhi, Delhi, India",Talent
+TAL0326,Oracle Consultant,CrossTab IT Consulting,"Delhi, IN",Talent
+TAL0327,Oracle EPM Architect,Thryve Digital Health LLP,"Delhi, IN",Talent
+TAL0328,Oracle CPQ Consultant,K&K Talents - India,"Delhi, IN",Talent
+TAL0329,Oracle Functional Consultant,Trantor,"Delhi, IN",Talent
+TAL0330,Oracle EPM Consultant,Best Infosystems Ltd.,"Delhi, IN",Talent
+TAL0331,Oracle Support Manager,"LanceSoft, Inc","Delhi, IN",Talent
+TAL0332,Oracle CPQ Developer,NETM CORPORATE SOLUTIONS PRIVATE LIMITED,"Delhi, IN",Talent
+TAL0333,Oracle Project Manager,Intellicore Consulting Group,"Delhi, IN",Talent
+TAL0334,AGM - Customer Service Solutions,Golden Opportunities,"Delhi, IN",Talent
+TAL0335,Cloud Solutions Architect,Ally-eXecutive HR,"Greater Delhi Area, India",Talent
+TAL0336,Cloud Engineer - Azure Solutions,Impetus Career Consultants Private Limited,"Delhi, IN",Talent
+TAL0337,.Net Solutions Architect,Altudo,"Greater Delhi Area, India",Talent
+TAL0338,Multi Solutions Architect,dentsu,New delhi,Talent
+TAL0339,Solutions Architect,Birlasoft,"Greater Delhi Area, India",Talent
+TAL0340,Advaiya Solutions - Solutions Architect - React.js / Next.js,Advaiya Solutions Pvt. Ltd.,"Delhi, IN",Talent
+TAL0341,Infrastructure Solutions Engineer,Control Risks,"Delhi, DL, IN",Talent
+TAL0342,Cloud Solutions Architect,Iyer Analytics Agency,"Delhi, IN",Talent
+TAL0343,ML Engineer – AI Solutions,Wadhwani Foundation,"Delhi, DL, in",Talent
+TAL0344,Senior Solutions Consultant,Enate,"Delhi, IN",Talent
+TAL0345,HR consultant-assessment solutions,Central Test,"Delhi, IN",Talent
+TAL0346,Solutions Architect,Magure India,"Delhi, IN",Talent
+TAL0347,"Technical Solutions Executive, Construction",myGwork,"New Delhi, D, India",Talent
+TAL0348,Solutions Architect,CBTS,"Delhi, IN",Talent
+TAL0349,Solutions Architect,Tata Consultancy Services,"New Delhi, Delhi, India",Talent
+TAL0350,Evoort Solutions - MLOps Engineer - Cloud Based Solutions,Evoort Solutions,"Delhi, IN",Talent
+TAL0351,Boomi Developer - Integration Solutions,stalwart Innovations,"Delhi, IN",Talent
+TAL0352,TravClan - Software Development Engineer I - Backend Architecture,Travclan,Delhi,Talent
+TAL0353,SDE III Backend,SuperAGI,"Delhi, IN",Talent
+TAL0354,iOS Developer - SWIFT Programming,Bio Tribe,"Delhi, IN",Talent
+TAL0355,SDE II,Monk Commerce,"Delhi, IN",Talent
+TAL0356,SDE-2 (Backend),Baazi Games,"Delhi, India, India",Talent
+TAL0357,SDE 2 Backend ( CORE JAVA + MULTITHREADING ),ARRISE powering Pragmatic Play,"Delhi, IN",Talent
+TAL0358,Senior Software Developer (SDE II) - Full Stack,Stir,"New Delhi, Delhi, India",Talent
+TAL0359,"SDE, Amazon CS (Level 5), CHEX",myGwork,"Delhi, India",Talent
+TAL0360,Senior Python Django Developer,FreJun,"Delhi, IN",Talent
+TAL0361,SDE II,CarInfo,"North Delhi, Delhi, India",Talent
+TAL0362,Software Develoment Engineer (Java),Talent Nexa Consulting,"Delhi, Delhi, India",Talent
+TAL0363,Amazon - Software Development Engineer II - System Design & Architecture,Amazon Development Centre (India) Pvt. Ltd.,"Delhi, IN",Talent
+TAL0364,Freecharge - Lead Software Development Engineer - Java Technologies,Freecharge Payment Technologies Pvt Ltd,"Delhi, IN",Talent
+TAL0365,Software Development Engineer II - Java / Golang,TechPoppy,"Delhi, IN",Talent
+TAL0366,Firewall Developer,Nurture HRM,"Delhi, IN",Talent
+TAL0367,SDE - 2,Pepper Content,"Delhi, IN",Talent
+TAL0368,SDE-III MLOps,Talentoj,"Delhi, IN",Talent
+TAL0369,"SDE Security ( Full Time, Remote)",Hike,"DL, IN",Talent
+TAL0370,Software Development Engineer II - React.js / AngularJS,VLaunchU,"Delhi, IN",Talent
+TAL0371,Marketing,Vidhyashala,"Noida, Uttar Pradesh, India",Talent
+TAL0372,Growth Marketing Lead - Performance Marketing,Global Talent Exchange,"Bangalore, India",Talent
+TAL0373,Marketing Specialist,Whyte Farms,"South Delhi, Delhi, India",Talent
+TAL0374,Marketing Intern,Solv,India,Talent
+TAL0375,Marketing Manager,BotLab Dynamics,"Delhi, India, India",Talent
+TAL0376,Digital Marketing Performance Marketing Intern,Wirality,"Bangalore, Karnataka, India",Talent
+TAL0377,Marketing Manager,Saffron Tech Pvt Ltd,India,Talent
+TAL0378,Marketing Manager,Recro,India,Talent
+TAL0379,Marketing Executive,Columbus Vacations Private Limited,"Hyderabad, Telangana, India",Talent
+TAL0380,Segment Marketing,Schneider Electric,"Gurugram, Haryana, India",Talent
+TAL0381,Digital Marketing Executive (Marketing Operations),CallHub Talent,India,Talent
+TAL0382,Marketing Intern,The Test Tribe,India,Talent
+TAL0383,Manager - Marketing,Eurofins,"Bengaluru, Karnataka, India",Talent
+TAL0384,Marketing Director,Cellecor Gadgets Ltd.,"Delhi, India, India",Talent
+TAL0385,Marketing Branding,Progenesis IVF Fertility Center,India,Talent
+TAL0386,Marketing Intern,Level SuperMind,India,Talent
+TAL0387,Marketing Manager,Protein World,"Gurugram, Haryana, India",Talent
+TAL0388,Marketing Manager,Unacademy,"Prayagraj, Uttar Pradesh, India",Talent
+TAL0389,Marketing Specialist,RoboMQ,India,Talent
+TAL0390,Retention Intern,Truemeds,"Mumbai, Maharashtra, India",Talent
+TAL0391,Marketing Intern,Pepper Content,"Mumbai, Maharashtra, India",Talent
+TAL0392,Sales Intern,Raveone Consultants,"Mumbai, Maharashtra, India",Talent
+TAL0393,Operations Intern,Zeno Health,"Mumbai, Maharashtra, India",Talent
+TAL0394,Marketing Intern,The Face Shop India Official,"Mumbai, Maharashtra, India",Talent
+TAL0395,Marketing Intern,Level SuperMind,"Mumbai, Maharashtra, India",Talent
+TAL0396,Marketing Intern,Dodla Digital,"Mumbai, IN",Talent
+TAL0397,Intern,MetaMorph,"Mumbai Metropolitan Region, India",Talent
+TAL0398,Architectural Intern,Urbanica,"Mumbai, IN",Talent
+TAL0399,Accounts Intern,Arcot Group,"Mumbai, MH, IN",Talent
+TAL0400,Legal Intern,Aerie Law,"Mumbai, IN",Talent
+TAL0401,SEO Intern,Schbang,"Mumbai, Maharashtra, India",Talent
+TAL0402,Marketing Intern,Young Filmistaan,"Mumbai, Maharashtra, India",Talent
+TAL0403,Operations Intern,NextGrowth Labs,"Lower Parel, Mumbai, MH, IN",Talent
+TAL0404,Intern,Interactive Avenues,"Mumbai, Maharashtra, India",Talent
+TAL0405,Marketing Intern,Rusk Media,"Mumbai, Maharashtra, India",Talent
+TAL0406,DevOps Intern,Quartic.ai,"Mumbai, IN",Talent
+TAL0407,MIS Intern,Rebel Foods,"Mumbai, Maharashtra, India",Talent
+TAL0408,Goodfellows Intern,Goodfellows India,"Mumbai, Maharashtra, India",Talent
+TAL0409,Communication Intern,Condé Nast India,"Mumbai, Maharashtra, India",Talent
+TAL0410,Big Data Engineer,Nagarro,India,Talent
+TAL0411,Big Data Specialist,Infosys,India,Talent
+TAL0412,Big Data Engineer,Saaki Argus & Averil Consulting,"Bengaluru, Karnataka, India",Talent
+TAL0413,Big Data Specialist,Cybage Software,"Pune, Maharashtra, India",Talent
+TAL0414,Big Data Lead,Recro,"Pune, Maharashtra, India",Talent
+TAL0415,Big Data Developer -,Prakhar Software Solutions Private Limited,Bangalore,Talent
+TAL0416,Big Data Developer,BDNT Labs Private Limited,"Pune, Maharashtra, India",Talent
+TAL0417,Big Data Consultant,Synechron,India,Talent
+TAL0418,Big Data Developer,Agile Technology Solutions - Your Technology Partner,"Pune, Maharashtra, India",Talent
+TAL0419,BIg data,Zodiac HR,"Mumbai, Maharashtra, India",Talent
+TAL0420,Big Data Consultant,Impetus,"Noida, Uttar Pradesh, India",Talent
+TAL0421,Big Data Developer,LION & ELEPHANTS,"Vadodara, IN",Talent
+TAL0422,Big Data Developer,LTIMindtree,India,Talent
+TAL0423,Big Data Architect,Quick Heal,India,Talent
+TAL0424,Big Data Developer,HCLTech,India,Talent
+TAL0425,Big Data Developer,Hrizen Techno Services,Chennai,Talent
+TAL0426,Big Data Engineer,Whopper Technologies,"Hyderabad, Telangana, India",Talent
+TAL0427,AWS Cloud Solutions Architect (DevOps + MLOps),Waltcorp,"Meerut, IN",Talent
+TAL0428,Devops Migration Architect,SourceFuse,"Meerut, IN",Talent
+TAL0429,Full Stack Engineer,Lingopal,"Meerut, IN",Talent
+TAL0430,Senior AWS Data Engineer,CYAN360,"Meerut, IN",Talent
+TAL0431,"Developer (Python, AWS, POS Integration)",RealTime Networking LLC,"Meerut, IN",Talent
+TAL0432,Senior AWS Windows SecOps,Arcane Strategies,"Meerut, IN",Talent
+TAL0433,Centilytics - AWS Cloud Engineer - CloudFormation,Centilytics,"Uttar Pradesh, IN",Talent
+TAL0434,Django Developer with AWS / Azure Cloud Deployment Experience,Daixta,"Meerut, IN",Talent
+TAL0435,"Java Developer (Microservices, Spring Boot, AWS) 5+ Years",Funic Tech,"Meerut, IN",Talent
+TAL0436,Senior Java AWS Developer,TVS Next,"Meerut, IN",Talent
+TAL0437,DevOps Engineer (remote for Dubai company),Quantum Talent Group,"Meerut, IN",Talent
+TAL0438,Data Engineer,Beyondsoft,"Meerut, IN",Talent
+TAL0439,Sr.DevOps Engineer,Clovertex,"Meerut, IN",Talent
+TAL0440,.NET on AWS,Cloud Packets,"Meerut, IN",Talent
+TAL0441,TCS Hiring for AWS Migration Architect_PAN India,Tata Consultancy Services,"Meerut, IN",Talent
+TAL0442,Customer Success Manager,nOps,"Meerut, IN",Talent
+TAL0443,Lead Data Engineer,EverAdNet Media,"Meerut, IN",Talent
+TAL0444,AWS Engineer (Infrastructure & DevOps),Programmers.io,"Meerut, IN",Talent
+TAL0445,"Back End Developer - Python, Node.js, AWS (Remote)",Photocert,"Meerut, IN",Talent
+TAL0446,Senior Java Software Engineer,Curately.ai,"Meerut, IN",Talent
+TAL0447,Consultant,HCLTech,India,Talent
+TAL0448,Consultant / Senior Consultant,Deallus,"Gurugram, Haryana, IN",Talent
+TAL0449,Consultant,Talent Corner HR Services Pvt Ltd,"Goregaon, Maharashtra, India",Talent
+TAL0450,Consultant,CA Monk,"Chennai, Tamil Nadu, India",Talent
+TAL0451,Consultant,Overture Rede,"Delhi, Delhi, India",Talent
+TAL0452,Consultant,Mount Talent Consulting Pvt Ltd.,"Mumbai, Maharashtra, India",Talent
+TAL0453,Consultant,insightsoftware,"Hyderabad, Telangana, India",Talent
+TAL0454,Consultant,Lifelancer,"Maharashtra, Maharashtra, India",Talent
+TAL0455,Consultant,Sapien Strategic Consulting LLP (RISE),India,Talent
+TAL0456,Consultant,AQM Technologies,"Mumbai, Maharashtra, India",Talent
+TAL0457,Consultant,Deloitte,"Mumbai Metropolitan Region, India",Talent
+TAL0458,Consultant,Birlasoft,India,Talent
+TAL0459,Consultant,Luxoft India,"Thiruvananthapuram, IN",Talent
+TAL0460,Consultant,Alp Consulting Ltd.,"Chennai, Tamil Nadu, India",Talent
+TAL0461,Cloud Architect - IT Asset Management,Consultant,Bangalore,Talent
+TAL0462,Consultant,Conscious Humanity Network Foundation - Global Non-profit Aggregator and Communities,"Prayagraj(Allahabad), IN",Talent
+TAL0463,Consultant,GlobalLogic,"Noida, Uttar Pradesh, India",Talent
+TAL0464,Consultant,ZoomRx,"Gurugram, Haryana, India",Talent
+TAL0465,Consultant,TRANSRURAL,"Begusarai, Bihar, India",Talent
+TAL0466,Consultant,Rizing Consumer Industries,"Bengaluru, Karnataka, India",Talent
+TAL0467,Sr. Developer - Angular & NestJS,CloudHire,IN,Talent
+TAL0468,Sales Executive,Facts Online Private Limited,"Thane, Maharashtra, India",Talent
+TAL0469,IBS Design,Mindpool Technologies,"Noida, Uttar Pradesh, India",Talent
+TAL0470,Freelance Graphic Designer,LRN Corporation,"Mumbai, MH, IN",Talent
+TAL0471,Electrician,Sodexo India,"DLF Road, APHB Colony, TCS Synergy park, Jayabheri Enclave, Gachibowli, Hyderabad, Telangana, India",Talent
+TAL0472,Associate Network Security Engineer,Qode,"Bengaluru, KA, IN",Talent
+TAL0473,QA Apply type IN,QAautomation,"Bommasandra, Karnataka",Talent
+TAL0474,GROUND INSTRUCTOR (TECHNICAL),CAE,Gondia,Talent
+TAL0475,JR. Software developer,Staff4Me,"Pune Okayama Friendship Garden, MH, IN",Talent
+TAL0476,Quality Analyst (Non-IT),IMS Group,"Ahmedabad, Gujarat, India",Talent
+TAL0477,Head of outsourced Call-center (with Business Development experience),Group of companies Eurasia,"Gurugram, HR, IN",Talent
+TAL0478,Talent Acquisition Head - Remote / Office,Abacus Consultants,"517, 3rd Floor, Anchor Mall, Ajmer Road, Civil Lines, Jaipur",Talent
+TAL0479,Production Support,N Consulting Ltd,"Pimpri-Chinchwad, Pune Division, India",Talent
+TAL0480,Field Operations Executive | Thane - Mumbai| B.Sc Chem / Agri / Zoology,Rentokil Initial,"Mumbai, MH, IN",Talent
+TAL0481,Marketing Analyst,Elevation Capital,"Andheri, MH, IN",Talent
+TAL0482,Institutional sales,Delta Exchange,IN,Talent
+TAL0483,US Audit - Senior Associate,Bahwan Cybertek Group,"Chennai, TN, IN",Talent
+TAL0484,Senior Software Engineer,BlackStone eIT,IN,Talent
+TAL0485,Quality Assurance Engineer,Dexian India,"Guntur, IN",Talent
+TAL0486,Quality Assurance Engineer,People Prime Worldwide,India,Talent
+TAL0487,Quality Assurance Engineer,Dewon Electric,India,Talent
+TAL0488,Quality Assurance Engineer,Scageon,"Bengaluru, Karnataka, India",Talent
+TAL0489,Quality Assurance Engineer,OpenText,"Bengaluru, Karnataka, India",Talent
+TAL0490,Quality Assurance Engineer,vidaXL,"Hyderabad, Telangana, India",Talent
+TAL0491,Quality Assurance Engineer,Xemplar Insights,"Hyderabad, Telangana, India",Talent
+TAL0492,Quality Assurance Engineer,HiroJet,"Bengaluru, Karnataka, India",Talent
+TAL0493,Quality Assurance Engineer,Eloelo,"Bengaluru, Karnataka, India",Talent
+TAL0494,Quality Assurance Engineer,ScaleneWorks,"Bengaluru, Karnataka, India",Talent
+TAL0495,Quality Assurance Engineer,System Soft Technologies,"Hyderabad, Telangana, IN",Talent
+TAL0496,Quality Assurance Engineer,TerraGiG,"Pune, Maharashtra, India",Talent
+TAL0497,Quality Assurance Engineer,Truelancer Enterprise,"Shimoga, IN",Talent
+TAL0498,Quality Assurance Engineer,GAC DIGITAL,"Hyderabad, Telangana, India",Talent
+TAL0499,Quality Assurance Engineer,ANSR - Tech,"Bengaluru, India",Talent
+TAL0500,Quality Assurance Engineer,TransPerfect,"Bengaluru, Karnataka, India",Talent
+TAL0501,Quality Assurance Engineer,Idox plc,"Pune, Maharashtra, India",Talent
+TAL0502,Quality Assurance Engineer,Zanskar Securities,India,Talent
+TAL0503,Quality Assurance Engineer,GBIT (Global Bridge InfoTech Inc),"Hyderabad, Telangana, India",Talent
+TAL0504,Quality Assurance Engineer,zenda,India,Talent
+TAL0505,Robotics Simulation Engineer,eInfochips (An Arrow Company),"Ahmedabad, Gujarat, India",Talent
+TAL0506,Robotics Specialist,The Leaders Hive,"Navi Mumbai, Maharashtra, India",Talent
+TAL0507,Robotics Engineer,Tata Electronics,"Hosur, Tamil Nadu, India",Talent
+TAL0508,Robotics Engineer Internship,MTAB Technology Center P Ltd,"Chennai, TN, in",Talent
+TAL0509,Robotics Engineer,Geojit Technologies,"Ernakulam, Kerala, India",Talent
+TAL0510,Robotics Trainer - Teacher,Anagh Technology,India,Talent
+TAL0511,Program Manager Robotics,Bosch Group,"Coimbatore, Tamil Nadu, India",Talent
+TAL0512,Assistant Manager - Robotics,Armstrong Dematic,India,Talent
+TAL0513,Robotics Instructor,Discoveries Quintessential,"Alwar, IN",Talent
+TAL0514,PEGA - Robotics,Zensar Technologies,"Pune, Maharashtra, India",Talent
+TAL0515,Robotics Engineer - ROS,Kody Technolab Limited,Ahmedabad,Talent
+TAL0516,Robotics Technician,Berry Avionics,India,Talent
+TAL0517,Robotics Manager,Thompsons HR Consulting LLP,"Sriperumbudur, TN, India",Talent
+TAL0518,Robotics Software Apprentice,10xConstruction.ai,"Bengaluru, Karnataka, India",Talent
+TAL0519,UAV Robotics Engineer,Aero360 - Dronix Technologies Pvt Ltd,India,Talent
+TAL0520,Robotics Software Engineer,Virya Autonomous Technologies,India,Talent
+TAL0521,Robotics Trainer STEAM,On My Own Technology,"North Delhi, Delhi, India",Talent
+TAL0522,Robotics Team Lead,K12 Techno Services Pvt. Ltd.,"Bengaluru, Karnataka, India",Talent
+TAL0523,Robotics Verification Manager,Dashhire,Bangalore,Talent
+TAL0524,Python Developer,TELUS Digital,"Noida, Uttar Pradesh, India",Talent
+TAL0525,Python Developer,Exult Global,"Ghaziabad, IN",Talent
+TAL0526,Developer,RAPTAR Reporting,"Ghaziabad, IN",Talent
+TAL0527,"Website Developer, Mobile App Developer","ITMC Systems, Inc","Noida, Uttar Pradesh, India",Talent
+TAL0528,PHP Developer,E2logy Software Solutions Private Limited,"Noida, GJ, in",Talent
+TAL0529,Software Developer,Outlier,"Faridabad, India",Talent
+TAL0530,Developer,Insight Global,"Ghaziabad, IN",Talent
+TAL0531,IBMi developer,Programmers.io,"Ghaziabad, IN",Talent
+TAL0532,Javascript Developer,R Systems,"Greater Delhi Area, India",Talent
+TAL0533,ServiceNow Developer,Papigen Private Limited,"Ghaziabad, IN",Talent
+TAL0534,Salesforce Developer,Infrabyte Technology Solution Pvt Ltd,"Noida, DL, in",Talent
+TAL0535,Flutter Developer,STAGE Technologies Private Limited,"Noida, UP, in",Talent
+TAL0536,Java Developer,Bonami Software Private Limited,"Noida, Uttar Pradesh, India",Talent
+TAL0537,Database Developer,Impetus,"Noida, Uttar Pradesh, India",Talent
+TAL0538,Android Developer,Ingenico,"Noida, Uttar Pradesh, India",Talent
+TAL0539,SQL Developer,Arting Digital Private Limited,"Faridabad, HR, in",Talent
+TAL0540,AngularJS Developer,CORTEX Consultants,Noida,Talent
+TAL0541,Backend Developer,Randstad India,"Noida, Uttar Pradesh, India",Talent
+TAL0542,Dotnet Developer,Coforge,"Uttar Pradesh, India, India",Talent
+TAL0543,Peoplesoft Developer,Wimmer Solutions,"Ghaziabad, IN",Talent
+TAL0544,React JS Developer,R Systems,"Greater Delhi Area, India",Talent
+TAL0545,Frontend Developer - React.js,Shorlist Professionals,"Delhi, IN",Talent
+TAL0546,Full Stack Developer - Node.js / React.js,HireVeda,"Delhi, IN",Talent
+TAL0547,React.js Developer - Javascript / Next.js,GetHyr,Delhi,Talent
+TAL0548,CoinCrowd - Frontend Engineer - React.js / Next.js,CoinCrowd,"Delhi, IN",Talent
+TAL0549,Web Architect - React.js / Node.js,Microgreen Technologies Pvt. Ltd,"Delhi, IN",Talent
+TAL0550,Frontend Developer - Next.js / React.js,HyreSnap,"Delhi, IN",Talent
+TAL0551,Frontend Developer(React Js),Talent Worx,"New Delhi, DL, IN",Talent
+TAL0552,React.js Developer - Redux,Thought Frameworks,"Delhi, IN",Talent
+TAL0553,Frontend Developer React JS,Vrinda Global,"New Delhi, Delhi, India",Talent
+TAL0554,React JS,Intellias,"Delhi, IN",Talent
+TAL0555,React JS Developer - Zensar,TalentOla,"New Delhi G.P.O., India",Talent
+TAL0556,Golang Developer - Node.js / React.js,Recruitment Hub 365,"Delhi, IN",Talent
+TAL0557,Full Stack Developer - Node.js / React.js,RMV Workforce LLP,"Delhi, IN",Talent
+TAL0558,React.js & React Native Developer,PODS365 INC,"New Delhi, Delhi, India",Talent
+TAL0559,Full Stack Developer - React.js / Node.js,Hireveda,"Delhi, IN",Talent
+TAL0560,Senior Enterprise Application Administrator,ZS,"Pune, India",Talent
+TAL0561,Senior LLM(Large Language Models) Engineer,ZS,"Pune, India",Talent
+TAL0562,ServiceNow Developer - HRSD Module,Stanley David And Associates (SDNA Global),Pune,Talent
+TAL0563,Marketing Executive,Battery Associates,"Pune, IN",Talent
+TAL0564,Senior Software Engineer - Java,ZS,"Pune, India",Talent
+TAL0565,Business Technology Solutions Associate- Tableau,ZS,"Pune, India",Talent
+TAL0566,Data Engineer,Parable Associates,"Maharashtra, India, India",Talent
+TAL0567,Data Engineer,Parable Associates,"Pune, IN",Talent
+TAL0568,Business Technology Solutions Associate-MDM,ZS,"Pune, India",Talent
+TAL0569,Senior Test Engineer,ZS,"Pune, India",Talent
+TAL0570,SAA - Manager - Sales & Sourcing,Sunil Agrawal and Associates (SAA),"Pune, India",Talent
+TAL0571,Data Engineer,Parable Associates,"Maharashtra, India, India",Talent
+TAL0572,Senior Human Resources Associate - Compensation,ZS,"Pune, India",Talent
+TAL0573,Senior Governance & Risk Analyst,ZS,"Pune, India",Talent
+TAL0574,Senior Identity & Access Management Analyst,ZS,"Pune, India",Talent
+TAL0575,MongoDB Operations Manager,Stanley David And Associates (SDNA Global),Pune,Talent
+TAL0576,Senior Developer - Adobe Journey Optimizer,Hirejiffy Associates Pvt Ltd,Pune,Talent
+TAL0577,Business Technology Solutions Associate- Data Engineer,ZS,"Pune, India",Talent
+TAL0578,Thrive Agency Data,Google Ads Account Manager,"Ghaziabad, IN",Talent
+TAL0579,Devops Cloud Engineer EST TIME,Google Cloud Devops,"Ghaziabad, IN",Talent
+TAL0580,Devops Cloud Engineer EST TIME,Google Cloud Devops,"Ghaziabad, IN",Talent
+TAL0581,Manager - Learning & Development,Deloitte,"Delhi, India, India",Talent
+TAL0582,Manager - Learning & Development,Deloitte,"Delhi, India, India",Talent
+TAL0583,Hiring for ITDA / ITSA Professionals,Deloitte,"Delhi, India, India",Talent
+TAL0584,Hiring for ITDA / ITSA Professionals,Deloitte,"Delhi, India, India",Talent
+TAL0585,Associate - Platform Services - ETL,ZS,"Bengaluru, India",Talent
+TAL0586,Dotnet Developer,Manhattan Associates,"Bengaluru, Karnataka, India",Talent
+TAL0587,Business Developer,RealtyRise Associates & Consultants Pvt. Ltd.,"Bengaluru, India",Talent
+TAL0588,Technical Lead - R&D - Java Full Stack (Angular),Manhattan Associates,Bangalore,Talent
+TAL0589,Snowflake Developer,Curriculum Associates,"Bengaluru, Karnataka, India",Talent
+TAL0590,Lead Java Developer,Manhattan Associates,"Bengaluru, Karnataka, India",Talent
+TAL0591,Software Engineer - C++ Developer,Manhattan Associates,"Bengaluru, Karnataka, India",Talent
+TAL0592,Software Engineer - C++ Developer,Manhattan Associates,"Bengaluru, Karnataka, India",Talent
+TAL0593,ServiceNow Developer - HRSD Module,Stanley David And Associates (SDNA Global),Bangalore,Talent
+TAL0594,Press Ganey - Java Technical Lead - Spring Boot Framework,PRESS GANEY ASSOCIATES INDIA PRIVATE LIMITED,Bangalore,Talent
+TAL0595,Business Technology Solutions Associate - ETL Developer,ZS,"Bengaluru, India",Talent
+TAL0596,Dotnet Developer,Manhattan Associates,"Bengaluru, Karnataka, India",Talent
+TAL0597,Lead Java Developer,Manhattan Associates,"Bengaluru, Karnataka, India",Talent
+TAL0598,"Technical Lead, Software Engineer - R&D - Java Full Stack",Manhattan Associates,Bangalore,Talent
+TAL0599,Technical Lead - R&D - Java Full Stack Developer,Manhattan Associates,Bangalore,Talent
+TAL0600,Curriculum Associates - Data Engineer - ETL,Curriculum Associates India Private Limited,Bangalore,Talent
+TAL0601,Snowflake Developer,Curriculum Associates,"Bengaluru, Karnataka, India",Talent
+TAL0602,Senior Developer - Adobe Journey Optimizer,Hirejiffy Associates Pvt Ltd,Bangalore,Talent
+TAL0603,Curriculum Associates - Senior Software Engineer II - Data Platform,Curriculum Associates India Private Limited,Bangalore,Talent
+TAL0604,Dotnet Developer,Infosys,"Kolkata, IN",Talent
+TAL0605,IN-Manager_Master Data Management Data and Analytics_Advisory_Chennai,PwC,"Menon Eternity,Chennai",Talent
+TAL0606,IN-Associate_ Liferay _Application Technology_Advisory_ PAN INDIA,PwC,"Menon Eternity,Chennai",Talent
+TAL0607,IN_Associate _Internal Audit_ Internal Audit Services _ Advisory_ Chennai,PwC,"Menon Eternity,Chennai",Talent
+TAL0608,IN-Senior Associate_Compliance Management_Security testing_Advisory_Chennai,PwC,"Menon Eternity,Chennai",Talent
+TAL0609,IN_Senior Associate_MDM Consultant_Data & Analytics_Advisory_PAN India,PwC,"Menon Eternity,Chennai",Talent
+TAL0610,IN_Manager_Business Analyst_D&A_Advisory_Chennai,PwC,"Menon Eternity,Chennai",Talent
+TAL0611,"IN-Manager_ Workday Technical Business Analysts_Application Technology_Advisory_Gurgaon, Kolkata, Bangalore",PwC,"Menon Eternity,Chennai",Talent
+TAL0612,IN-Senior Associate_ESG sustainability_Climate & Energy_Advisory_Chennai,PwC,"Menon Eternity,Chennai",Talent
+TAL0613,IN_Senior Associate_GCP Data Engineer_Data & Analaytics_Advisory_Chennai,PwC,"Menon Eternity,Chennai",Talent
+TAL0614,IN-Senior Associate_ Agentic Powered Automation (APA) _ Intelligent Automation_ Advisory _ Chennai,PwC,"Menon Eternity,Chennai",Talent
+TAL0615,Application Developer,Accenture,New Delhi,Talent
+TAL0616,​​Principal Software Engineer​,Microsoft,"Noida, Uttar Pradesh, India",Talent
+TAL0617,Software Engineer 2,Microsoft,"Noida, Uttar Pradesh, India",Talent
+TAL0618,Senior PD Engineer,Microsoft,"Noida, Uttar Pradesh, India",Talent
+TAL0619,Software Engineer,Microsoft,"Noida, Uttar Pradesh, India",Talent
+TAL0620,​​Software Engineer 2​,Microsoft,"Noida, Uttar Pradesh, India",Talent
+TAL0621,Senior Service Engineer,Microsoft,"Noida, Uttar Pradesh, India",Talent
+TAL0622,Senior Software Engineer,Microsoft,"Noida, Uttar Pradesh, India",Talent
+TAL0623,Software Engineer II,Microsoft,"Noida, Uttar Pradesh, India",Talent
+TAL0624,Site Reliability Engineer,Microsoft,"Noida, Uttar Pradesh, India",Talent
+TAL0625,Principal Software Engineer,Microsoft,"Noida, Uttar Pradesh, India",Talent
+TAL0626,Delinea PAM,Deloitte,"Ghaziabad, IN",Talent
+TAL0627,GN - SC&O - BPM - IA - 10,Accenture,"Bengaluru, BDC7A",Talent
+TAL0628,GN - SC&O - BPM - IA - 09,Accenture,"Bengaluru, BDC7A",Talent
+TAL0629,GN - SC&O - BPM-IA - Consultant,Accenture,"Bengaluru, BDC7A",Talent
+TAL0630,GN - SC&O - BPM - IA - 10,Accenture,Bengaluru,Talent
+TAL0631,GN - SC&O - BPM - IA - 12,Accenture,Bengaluru,Talent
+TAL0632,GN - SC&O - BPM - IA - 09,Accenture,Bengaluru,Talent
+TAL0633,GN - SC&O - BPM -08,Accenture,"Bengaluru, BDC7A",Talent
+TAL0634,GN - SC&O - BPM -08,Accenture,Bengaluru,Talent
+TAL0635,GN - SC&O - BPM - IA - Senior Manager,Accenture,"Bengaluru, BDC7A",Talent
+TAL0636,GN - SC&O - BPM- IA - Manager,Accenture,Bengaluru,Talent
+TAL0637,IN-Senior Associate_Azure data Engineer_Data &Analytics_Advisory_PAN India,PwC,Noida,Talent
+TAL0638,IN-Senior Associate _GCP Developer _Data & Analytics _Advisory _Noida,PwC,Noida,Talent
+TAL0639,IN_Associate_Azure Data Engineer_Data & Analytics_Advisory_Noida,PwC,Noida,Talent
+TAL0640,IN_Senior Associate_GCP Data Engineer_Data & Analaytics_Advisory_Noida,PwC,Noida,Talent
+TAL0641,IN-Manager_Service Now Developer_ Application Technology_ Advisory_Noida,PwC,Noida,Talent
+TAL0642,IN-Senior Associate_Tableau Developer_Advisory Corporate_Advisory_Noida,PwC,Noida,Talent
+TAL0643,IN-Senior Associate_Full Stack Developer_Advisory Corporate_Advisory_Noida,PwC,Noida,Talent
+TAL0644,IN_Senior Associate_Data Governance _D&A_Advisory_Noida,PwC,Noida,Talent
+TAL0645,IN_Senior Associate_ Data Engineer _Data and Analytics_Advisory_PAN INDIA,PwC,Noida,Talent
+TAL0646,Manager,PwC,Noida,Talent
+TAL0647,Full Stack Developer,Wipro,"Bengaluru, Karnataka, India",Talent
+TAL0648,Java Full stack Tech lead,Wipro,"Bengaluru, Karnataka, India",Talent
+TAL0649,Urgently required Python Developer .Locations-Kolkata and Bangalore . Only Immediate Joiners,Wipro,"Bengaluru, Karnataka, India",Talent
+TAL0650,Urgently required Python Developer .Locations-Kolkata and Bangalore . Only Immediate Joiners,Wipro,"Bengaluru, Karnataka, India",Talent
+TAL0651,Full Stack Developer,Wipro,"Bengaluru, Karnataka, India",Talent
+TAL0652,Java Full stack Tech lead,Wipro,"Bengaluru, Karnataka, India",Talent
+TAL0653,Technical Lead,Wipro,"Bengaluru, Karnataka, India",Talent
+TAL0654,Senior Frontend Web Developer,Wipro,"Bengaluru, Karnataka, India",Talent
+TAL0655,Senior Frontend Web Developer,Wipro,"Bengaluru, Karnataka, India",Talent
+TAL0656,ERP Analytics-OAC and SQL Developer-Senior,EY,"Noida, UP, IN",Talent
+TAL0657,SaT-TD-Associate Manager,EY,"Noida, UP, IN",Talent
+TAL0658,SaT-TSE-DM-Manager,EY,"Noida, UP, IN",Talent
+TAL0659,SAP BTP Developer RAP CDS - Senior,EY,"Noida, UP, IN",Talent
+TAL0660,MS-Senior-Dynamics-Finance-Functional-Consultant,EY,"Noida, UP, IN",Talent
+TAL0661,MS-Bizapps-Developer-Senior,EY,"Noida, UP, IN",Talent
+TAL0662,SAP BTP Developer RAP CDS-Senior,EY,"Noida, UP, IN",Talent
+TAL0663,Oracle ERP-OAC-OBIEE-SQL Developer-Senior,EY,"Noida, UP, IN",Talent
+TAL0664,SAP Datasphere-Senior,EY,"Noida, UP, IN",Talent
+TAL0665,MS - Bizapps - Technical Developer - Data Migration - Staff,EY,"Noida, UP, IN",Talent
+TAL0666,GN - SC&O - BPM - IA - 09,Accenture,Bengaluru,Talent
+TAL0667,GN - SC&O - BPM - IA - 12,Accenture,"Mumbai, MC1 Building, NonSTPI",Talent
+TAL0668,GN - SC&O - BPM -08,Accenture,Bengaluru,Talent
+TAL0669,GN - SC&O - BPM -08,Accenture,"Bengaluru, BDC7A",Talent
+TAL0670,GN - SC&O - BPM - IA - 10,Accenture,"Bengaluru, BDC7A",Talent
+TAL0671,Internal Audit Specialist,accenture,INDIA,Talent
+TAL0672,GN Industry - Utility CC&B Consultant,accenture,INDIA,Talent
+TAL0673,S&C -GN - SC&O Operations & Process Transformation Associate Director,accenture,INDIA,Talent
+TAL0674,GN - SC&O - BPM - IA - 12,Accenture,Bengaluru,Talent
+TAL0675,GN - SC&O - BPM - IA - 10,Accenture,Bengaluru,Talent
+TAL0676,GN Industry Utility CC&B,accenture,INDIA,Talent
+TAL0677,GN - Industry - MC - T&D Scada,accenture,INDIA,Talent
+TAL0678,GN - SC&O - BPM- IA - Manager,Accenture,"Bengaluru, BDC7A",Talent
+TAL0679,GN - SC&O - BPM- IA - Manager,Accenture,Bengaluru,Talent
+TAL0680,GN - Industry - MC - Utilities CC&B - Analyst,accenture,INDIA,Talent
+TAL0681,S&C -GN - SC&O Operations & Process Transformation Senior Manager,accenture,INDIA,Talent
+TAL0682,GN - SC&O - BPM - IA - 09,Accenture,"Bengaluru, BDC7A",Talent
+TAL0683,GN - Industry - MC - Utilities WACS - Consultant,accenture,INDIA,Talent
+TAL0684,GN - Industry - MC - Utilities FSM Manager,accenture,INDIA,Talent
+TAL0685,CN - Strategy - MC - Utilities Oracle - 09,accenture,INDIA,Talent
+TAL0686,Wipro - AngularJS Developer,Wipro Limited,Hyderabad,Talent
+TAL0687,Python Developer,Wipro,"Hyderabad, Telangana, India",Talent
+TAL0688,Python Developer / Lead,Wipro,"Hyderabad, India",Talent
+TAL0689,Developer,Wipro,"Hyderabad, India",Talent
+TAL0690,SailPoint Developer,Wipro,"Hyderabad, India",Talent
+TAL0691,Sr Developer,Wipro,"Hyderabad, India",Talent
+TAL0692,PowerApps Developer,Wipro,"Hyderabad, India",Talent
+TAL0693,Python Developer,Wipro,"Hyderabad, India",Talent
+TAL0694,Lead Developer - Teamcenter PLM,Wipro,"Hyderabad, India",Talent
+TAL0695,Python Developer,Wipro,"Hyderabad, Telangana, India",Talent
+TAL0696,Python (DSA) Developer,Wipro,"Hyderabad, India",Talent
+TAL0697,DE-AWS-Cloud Native AI Engineer-VG-F02,EY,"Hyderabad, TG, IN",Talent
+TAL0698,DE - AWS - Cloud Native AI Engineer - VG - F02,EY,"Hyderabad, TG, IN",Talent
+TAL0699,HCL - Generative AI Researcher - LLM,HCL Technologies Limited,Hyderabad,Talent
+TAL0700,System Development Engineer Customer Experience and Business Trends,Amazon,"Bangalore, Karnataka, India",Talent
+TAL0701,"System Development Engineer, Customer Experience and Business Trends",AMAZON INDIA PVT LTD,INDIA,Talent
+TAL0702,"Sr. Data Scientist, Last Mile Science and Analytics",Amazon Dev Center India - Hyderabad,"Bengaluru, Karnataka, IND",Talent
+TAL0703,Sr Data Scientist Last Mile Science,Amazon,"Garhwa, Uttarakhand, India",Talent
+TAL0704,Data Analyst Support RoW SHARP,Amazon,"Bengaluru, Karnataka, India",Talent
+TAL0705,Business Analyst Support ROW SHARP Analytics,Amazon,"Bengaluru, Karnataka, India",Talent
+TAL0706,"Data Scientist II, FinOps - Global Finance Solution",AMAZON INDIA PVT LTD,INDIA,Talent
+TAL0707,Data Science Analytics Manager Central Flow,Amazon,"Bengaluru, Karnataka, India",Talent
+TAL0708,Applied Scientist Disputes Management,Amazon,"Bangalore, Karnataka, India",Talent
+TAL0709,"Data Science & Analytics Manager, Central Flow",AMAZON INDIA PVT LTD,INDIA,Talent
+TAL0710,Business Intelligence Engineer I IES ShopEx,Amazon,"Bengaluru, Karnataka, India",Talent
+TAL0711,"System Development Engineer, Payments Services",AMAZON INDIA PVT LTD,INDIA,Talent
+TAL0712,"Data Engineer I, IN-Ads",Amazon Dev Center India - Hyderabad - A85,"Bengaluru, Karnataka, IND",Talent
+TAL0713,"Sr. Applied Scientist, Last Mile Science",Amazon Dev Center India - Hyderabad,"Bengaluru, Karnataka, IND",Talent
+TAL0714,"Senior Applied Scientist, Worldwide Returns & Recommerce - Science",Amazon Dev Center India - Hyderabad,"Hyderabad, Telangana, IND",Talent
+TAL0715,BIE I AOP,Amazon,"Bengaluru, Karnataka, India",Talent
+TAL0716,Data Scientist II Data Scientist II - AOP Team,Amazon,"Bengaluru, Karnataka, India",Talent
+TAL0717,Data Scientist II FinOps - Global Data Analytics,Amazon,"Hyderabad, Telangana, India",Talent
+TAL0718,"Sr. Applied Scientist, Last Mile Science",Amazon Development Centre (India) Private Limited,"Bengaluru, Karnataka, IND",Talent
+TAL0719,"BIE II, AOP",AMAZON INDIA PVT LTD,INDIA,Talent
+TAL0720,Devops Engineer II,Microsoft,"Hyderabad, Telangana, India",Talent
+TAL0721,Front End Engineer - React Js with PowerBI,Cognizant,"Chennai, Tamil Nadu, India",Talent
+TAL0722,Tandem Specialist,Cognizant,India,Talent
+TAL0723,Front End Engineer - React Js with PowerBI,Cognizant,"Chennai, Tamil Nadu, India",Talent
+TAL0724,Front End Engineer - React Js with PowerBI,Cognizant,India,Talent
+TAL0725,Tandem Specialist,Cognizant,"Chennai, Tamil Nadu, India",Talent
+TAL0726,Front End Engineer - ReactJs with GCP,Cognizant,"Chennai, Tamil Nadu, India",Talent
+TAL0727,Front End Engineer - ReactJs with GCP,Cognizant,"Chennai, Tamil Nadu, India",Talent
+TAL0728,Front End Engineer - ReactJs with GCP,Cognizant,India,Talent
+TAL0729,Front End Engineer - ReactJs with GCP [Urgent],Cognizant,India,Talent
+TAL0730,Tandem Specialist,Cognizant,"Chennai, Tamil Nadu, India",Talent
+TAL0731,HCL - Generative AI Researcher - LLM,HCL Technologies Limited,Bangalore,Talent
+TAL0732,QA Automation,PROCYON TECHNOSTRUCTURE,"Chennai, TN, India",Talent
+TAL0733,Automation Engineer,Contour Education,"Chennai, IN",Talent
+TAL0734,Cypress Automation Tester,CirrusLabs,"Chennai, IN",Talent
+TAL0735,Tosca Automation,LTIMindtree,"Chennai, Tamil Nadu, India",Talent
+TAL0736,Automation Engineer,People Prime Worldwide,"Chennai, IN",Talent
+TAL0737,Automation,SEGULA Technologies,"Chennai, TN, IN",Talent
+TAL0738,Tosca Automation,Dautom,"Greater Chennai Area, India",Talent
+TAL0739,Test Automation Architect,Alsvid,Chennai,Talent
+TAL0740,Automation Engineer,Gokool Digital,"Chennai, IN",Talent
+TAL0741,Automation Product Architect,Sampoorna Consultants Pvt. Ltd,Chennai,Talent
+TAL0742,n8n Automation Engineer,Ben AI,"Chennai, IN",Talent
+TAL0743,Automation Test Lead,Luxoft,"Chennai, Tamil Nadu, India",Talent
+TAL0744,Tosca Automation,Tata Consultancy Services,"Chennai, Tamil Nadu, India",Talent
+TAL0745,Automation Testing Engineer,Hitachi,"Chennai, Tamil Nadu, India",Talent
+TAL0746,Senior Automation Engineer,Talent Inspire Consulting,"Chennai, IN",Talent
+TAL0747,Marketing Automation Specialist,TrueBlue Inc.,"Chennai, IN",Talent
+TAL0748,Automation Developer,Expert Executive Recruiters (EER Global),"Chennai, IN",Talent
+TAL0749,Automation,Isoftronics,"Chennai, Tamil Nadu, India",Talent
+TAL0750,Automation Test Engineer,Synechron,"Chennai, IN",Talent
+TAL0751,Automation Tester (Connex),myGwork,"Chennai, India",Talent
+TAL0752,Delta V Engineer / Lead Developer,Capgemini,"Ghaziabad, IN",Talent
+TAL0753,Delta V Lead Developer - Location : Pune / Bangalore / Mumbai / Hyderabad,Capgemini Engineering,"Ghaziabad, IN",Talent
