@@ -57,3 +57,35 @@ BeautifulSoup, requests for scraping
 pandas for data processing
 
 json, os, re, sys for file and text handling
+
+### Job Market Insights Dashboard
+
+An interactive, filter-based dashboard for analyzing job listings across various sectors, countries, states, and experience levels. This project focuses on data-driven insights using Python, enabling users to explore job trends and patterns through visualizations.
+
+---
+
+## Features
+
+- **General Overview**: High-level summary of top industries, job locations, and experience categories.
+- **Interactive Filters**: Select `Country`, `State`, `Industry`, and `Experience Level` to customize your view.
+- **Dynamic Visualizations**: Automatically update graphs based on selected filters:
+  - Top industries and cities
+  - Jobs by country and state
+  - Stacked bar charts for state/city breakdown
+  - Pie charts and bar charts for experience category distribution
+- Built entirely in **Jupyter Notebook** using:
+  - `Pandas` for data manipulation  
+  - `Matplotlib` for plotting  
+  - `ipywidgets` for interactive controls  
+
+---
+
+## Skills Highlighted
+
+- Data Cleaning & Filtering  
+- Interactive Data Exploration  
+- Dashboard Design with Widgets  
+- Real-world Data Analytics Use Case  
+
+---
+
