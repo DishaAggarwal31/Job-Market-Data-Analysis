@@ -1,0 +1,4 @@
+1. Standardize the company names like Accenture and Accenture Pvt Lmt.
+2. Standardlize the city names like Delhi and delhi or New Delhi.
+3. Can add more visualizations.
+4. UI interactive
